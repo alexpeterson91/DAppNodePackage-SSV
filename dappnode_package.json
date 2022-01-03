@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "goerli-geth.dnp.dappnode.eth": "latest",
-    "prysm-prater.dnp.dappnode.eth": "latest"
+    "prysm-prater.dnp.dappnode.eth": "v2.0.4"
   }
 }
