@@ -12,7 +12,7 @@
     "Eduardo Antuña <edu@dappnode.io> (https://github.com/eduadiez)"
   ],
   "categories": ["Blockchain", "ETH2.0"],
-  "license": "GLP-3.0",
+  "license": "GPL-3.0",
   "links": {
     "explorer": "https://explorer.ssv.network/",
     "homepage": "https://ssv.network/"
